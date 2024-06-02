@@ -43,8 +43,4 @@ Then run the following commands to run your app:
 **Server**: Appwrite Auth, Appwrite Storage, Appwrite Database, Appwrite Realtime
 
 **Client**: Flutter, Riverpod
-    
-## Feedback
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
 
